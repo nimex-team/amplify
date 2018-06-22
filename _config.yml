@@ -33,3 +33,6 @@ kramdown:
 
 gems:
   - jekyll-paginate
+
+include:
+  - _redirects
